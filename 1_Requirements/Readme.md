@@ -24,6 +24,7 @@ HIGH LEVEL REQUIREMENTS
 7.Admin should be able to maintain all the records.
 
 LOW LEVEL REQUIREMENTS
+
 1.admin should be able to ban the candidates who are not eligible for votes.
 
 2.admin should be able to delete the vores of banned students.
