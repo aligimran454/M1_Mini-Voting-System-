@@ -6,6 +6,7 @@ Online voting tools and online election voting systems help you make important d
 It’s a good idea to use an online voting system to: Elect your leadership: A board of directors election is a good example, where there are multiple positions (e.g. chair, vice president, secretary, treasurer). All of which may include supporting documentation (e.g. biographies, resumés, headshots).
 
 Admit new members to your group. This helps you stick to a regular, fair process of evaluation and lets candidates know what to expect. Gather anonymous feedback from your employees. Managers (and managers of managers) want to know how their employees truly feel about their jobs and work life. Using an online voting system with a capacity for secret balloting helps employees express their true feelings, by understanding and trusting that their feedback will be heard, but not tied directly to them.	
+
 HIGH LEVEL REQUIREMENTS
 
 1.User could be able to login
