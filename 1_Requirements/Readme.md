@@ -21,6 +21,7 @@ HIGH LEVEL REQUIREMENTS
 6.Data should always be stored when closing the system
 
 7.Admin should be able to maintain all the records.
+
 LOW LEVEL REQUIREMENTS
 1.admin should be able to ban the candidates who are not eligible for votes.
 
